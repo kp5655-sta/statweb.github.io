@@ -1,0 +1,303 @@
+.rubrik {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; COLOR: #c42f51; LINE-HEIGHT: 100%; FONT-FAMILY: Arial, Sans-serif
+}
+.mrubrik {
+	FONT-WEIGHT: normal; FONT-SIZE: 120%; COLOR: #c42f51; LINE-HEIGHT: 120%; FONT-FAMILY: Arial, Sans-serif
+}
+.srubrik {
+	FONT-WEIGHT: normal; FONT-SIZE: 150%; COLOR: #c42f51; LINE-HEIGHT: 120%; FONT-FAMILY: Arial, Sans-serif
+}
+.smalstycke {
+	FONT-SIZE: 70%; WIDTH: 90%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial
+}
+.stext {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+.ltext {
+	FONT-SIZE: 75%; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+.fot {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: Microsoft JhengHei,verdana, geneva, helvetica, arial, sans-serif
+}
+.navig {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; COLOR: #999999; LINE-HEIGHT: 120%; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial, Sans-serif
+}
+
+
+.cell1 {
+	COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+.cell2 {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.cell3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #330000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #ffcc66
+}
+.cell4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: #330000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #eeeeee
+}
+.cell5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 90%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.cell6 {
+	FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #eeeeee
+}
+.cellpress {
+	COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+.cellpress2 {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.cellstat {
+	COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+.cellstat2 {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.cellbibl {
+	FONT-WEIGHT: normal; FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.cellbibl2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+SELECT {
+	FONT-WEIGHT: normal; FONT-SIZE: 90%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+INPUT {
+	FONT-WEIGHT: normal; FONT-SIZE: 90%; COLOR: #000000; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif;
+}
+DIV.fraga {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; WIDTH: 130px; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 150px; BACKGROUND-COLOR: #eeeeee
+}
+DIV.nyheter {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 385px; BACKGROUND-COLOR: #ffffff
+}
+DIV.publDB {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 385px; BACKGROUND-COLOR: #ffffff
+}
+DIV.snabbasiffror {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 215px; BACKGROUND-COLOR: #eeeeee
+}
+DIV.itiden {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 173px; BACKGROUND-COLOR: #eeeeee
+}
+DIV.foten {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0.5em; VISIBILITY: visible; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 0px; BACKGROUND-COLOR: #eeeeee
+}
+a{ COLOR: #666666}
+.link { color: #0000FF; }
+A:hover { BACKGROUND-COLOR: #DDE5C6; COLOR: #1B3F19 }
+A:active { TEXT-DECORATION: none }
+A:link { TEXT-DECORATION: none }
+A:visited { TEXT-DECORATION: none }
+
+.AHover { BACKGROUND-COLOR: #DDE5C6; COLOR: #1B3F19 } 
+#span4{ FONT-SIZE:80%} //   COLOR: #666666;無作用
+
+
+/*  按鈕顏色變換  */
+.start {color: #1B3F19; background:#DDE5C6; font: 14pt 新細明體,標楷體}
+.buttom1 {color: #f00; background:#CAFFEA; font: 12pt 新細明體,標楷體}
+.buttom2 {color: #FFFFFF; background:#808000; font: 12pt 新細明體,標楷體}
+.buttom3 {color: #800040; background:#FFFF80; font: 12pt 新細明體,標楷體}
+
+
+.textlank {
+	COLOR: #c42f51; TEXT-DECORATION: none
+}
+.textlank:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 200%; COLOR: #c42f51; LINE-HEIGHT: 170%; FONT-FAMILY: Arial, Sans-serif
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 180%; COLOR: #c42f51; LINE-HEIGHT: 150%; FONT-FAMILY: Arial, Sans-serif
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 160%; MARGIN-BOTTOM: -0.5em; COLOR: #0000d9; LINE-HEIGHT: 120%; FONT-FAMILY: arial, Sans-serif
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 150%; MARGIN-BOTTOM: -1em; COLOR: #000000; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #c42f51; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; COLOR: #cc0000; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+P {
+	FONT-SIZE: 110%; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+
+TD {
+	FONT-SIZE: 95%; COLOR: #666666; LINE-HEIGHT: 150%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD P {
+	FONT-SIZE: 85%; COLOR: #D84FA0; LINE-HEIGHT: 95%; margin-bottom: 0px; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+
+TD H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 200%; COLOR: #c42f51; LINE-HEIGHT: 170%; FONT-FAMILY: Arial, Sans-serif
+}
+TD H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 180%; COLOR: #c42f51; LINE-HEIGHT: 150%; FONT-FAMILY: Arial, Sans-serif
+}
+TD H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 170%; MARGIN-BOTTOM: -0.5em; COLOR: #c42f51; LINE-HEIGHT: 120%; FONT-FAMILY: arial, Sans-serif
+}
+TD H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%; MARGIN-BOTTOM: -1em; COLOR: #50712A; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #c42f51; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 105%; COLOR: #c42f51; LINE-HEIGHT: 100%; FONT-FAMILY: arial, Sans-serif
+}
+TD .stext {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #000000; LINE-HEIGHT: 160%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD .rubrik {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%; COLOR: #c42f51; LINE-HEIGHT: 140%; FONT-FAMILY: Arial, Sans-serif
+}
+TD .mrubrik {
+	FONT-WEIGHT: normal; FONT-SIZE: 170%; COLOR: #c42f51; LINE-HEIGHT: 170%; FONT-FAMILY: Arial, Sans-serif
+}
+TD .srubrik {
+	FONT-WEIGHT: normal; FONT-SIZE: 190%; COLOR: #c42f51; LINE-HEIGHT: 200%; FONT-FAMILY: Arial, Sans-serif
+}
+TD .smalstycke {
+	FONT-SIZE: 95%; WIDTH: 80%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial
+}
+TD .ltext {
+	FONT-SIZE: 90%; COLOR: #000000; LINE-HEIGHT: 140%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD .navig {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; COLOR: #999999; LINE-HEIGHT: 120%; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial, Sans-serif
+}
+TD .fot {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 100%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TD LI {
+list-style-type:square;FONT-WEIGHT: normal; FONT-SIZE: 95%; FONT-FAMILY: Microsoft JhengHei,verdana; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+td ul.a { list-style-type:square;list-style-position:inside;
+margin: 0;
+padding-left:1.8em;
+}
+ul.b{ list-style-type:circle;list-style-position:inside;
+margin: 0;
+padding-left:0em;
+}
+#span1{color: white; background-color: #F6853F; font-weight: bold}  //;margin-top: 20px沒用
+
+
+TD {FONT-SIZE: 95%; COLOR: #666666; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif}
+.span2{FONT-SIZE: 60% }   
+#span3{color: #05A535; FONT-SIZE: 125%;FONT-WEIGHT:bold} 
+
+.tabelltext {
+	PADDING-RIGHT: 2px; MARGIN-TOP: 1em; PADDING-LEFT: 2px; FONT-SIZE: 70%; MARGIN-BOTTOM: 0.5em; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; LINE-HEIGHT: 160%; PADDING-TOP: 2px; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+
+
+.tabelltext {
+	PADDING-RIGHT: 2px; MARGIN-TOP: 1em; PADDING-LEFT: 2px; FONT-SIZE: 70%; MARGIN-BOTTOM: 0.5em; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; LINE-HEIGHT: 160%; PADDING-TOP: 2px; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+TH {
+	BORDER-TOP: 0px; FONT-WEIGHT: 100; FONT-SIZE: 70%; MARGIN-BOTTOM: 1em; VERTICAL-ALIGN: top; COLOR: #000000; LINE-HEIGHT: 120%; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: right
+}
+TH P {
+	FONT-SIZE: 95%; LINE-HEIGHT: 140%
+}
+.tabsiff {
+	PADDING-RIGHT: 2px; BORDER-TOP: #c42f51 2px solid; MARGIN-TOP: 0.5em; PADDING-LEFT: 2px; MARGIN-BOTTOM: 0.5em; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; PADDING-TOP: 2px; BORDER-BOTTOM: #c42f51 2px solid; TEXT-ALIGN: right
+}
+.tabcell1 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #eeeeee
+}
+.tabcell2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+.tabfot {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: 800; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff
+}
+.tabtotal {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: 800; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #ffefcf; TEXT-ALIGN: right
+}
+.indrag1_tabcell1 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #eeeeee
+}
+.indrag2_tabcell1 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 40px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #eeeeee
+}
+.indrag1_tabcell2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+.indrag2_tabcell2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 40px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: top; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+DIV.prodsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 70px; BACKGROUND-COLOR: #ffffff
+}
+DIV.kommentar {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 1px; BORDER-TOP: 0px; DISPLAY: block; PADDING-LEFT: 1px; RIGHT: 0px; LEFT: 550px; FLOAT: right; PADDING-BOTTOM: 1px; BORDER-LEFT: 0px; WIDTH: 100px; PADDING-TOP: 1px; BORDER-BOTTOM: 0px; POSITION: absolute; TOP: 30px; BACKGROUND-COLOR: #ffffff
+}
+DIV.meromsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 20px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 620px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+DIV.amne {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 165px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 500px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.relaterat {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 145px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.nytt {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 145px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 400px; BACKGROUND-COLOR: #ffffff
+}
+DIV.annons {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.smsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.publsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.publkat {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.ssdsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 165px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.ssdrelaterat {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 145px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.omscbsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.pbesksid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.fs {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.pressid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 25px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.soksid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.vanligsid {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 660px; BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.scbdok {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 10px; RIGHT: 0px; LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #999999 1px dotted; WIDTH: 600px; BOTTOM: 30px; PADDING-TOP: 10px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; TOP: 80px; BACKGROUND-COLOR: #ffffff
+}
+DIV.symbol {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; LEFT: 10px; PADDING-BOTTOM: 2px; WIDTH: 100px; BOTTOM: 0px; PADDING-TOP: 2px; POSITION: absolute; TOP: 80px
+}
+.rundtur {
+	BORDER-RIGHT: #999999 1px dotted; PADDING-RIGHT: 5px; BORDER-TOP: #999999 1px dotted; PADDING-LEFT: 5px; LEFT: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #999999 1px dotted; WIDTH: 100%; PADDING-TOP: 5px; BORDER-BOTTOM: #999999 1px dotted; POSITION: absolute; BACKGROUND-COLOR: #ffffff
+}

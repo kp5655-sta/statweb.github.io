@@ -1,0 +1,37 @@
+
+a{ COLOR: #666666}
+.link { color: #0000FF; }
+A:hover { BACKGROUND-COLOR: #DDE5C6; COLOR: #1B3F19 }
+A:active { TEXT-DECORATION: none }
+A:link { TEXT-DECORATION: none }
+A:visited { TEXT-DECORATION: none }
+
+.AHover { BACKGROUND-COLOR: #DDE5C6; COLOR: #1B3F19 } 
+#span4{ FONT-SIZE:80%} //   COLOR: #666666;無作用
+
+
+.textlank {
+	COLOR: #c42f51; TEXT-DECORATION: none
+}
+
+TD {FONT-SIZE: 95%; COLOR: #666666;  LINE-HEIGHT: 150%; FONT-FAMILY: Microsoft JhengHei,verdana,geneva,helvetica,arial,sans-serif
+}
+
+
+TD LI {
+list-style-type:square;FONT-WEIGHT: normal; FONT-SIZE: 80%; FONT-FAMILY: Microsoft JhengHei,verdana; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+td ul.a { list-style-type:square;list-style-position:inside;
+margin: 0;
+padding-left:1.8em;
+}
+ul.b{ list-style-type:circle;list-style-position:inside;
+margin: 0;
+padding-left:0em;
+}
+#span1{color: white; background-color: #F6853F; font-weight: bold}  //;margin-top: 20px沒用
+
+
+
+.span2{FONT-SIZE: 60% }   
+#span3{color: #05A535; FONT-SIZE: 125%;FONT-WEIGHT:bold} 
